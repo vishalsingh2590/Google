@@ -1,0 +1,1 @@
+{"uuid":"ca4f3707-55bc-4630-8544-1eeed2702589","name":"com.arcgate.base.Base.setUp","children":["ac440340-2dcf-48a8-8237-d941426b2669"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1748068177347,"stop":1748068180590}],"afters":[],"start":1748068177347,"stop":1748068180590}
